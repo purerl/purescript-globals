@@ -1,10 +1,11 @@
 -- | This module defines types for some global Javascript functions
 -- | and values.
 module Global
-  ( nan
-  , isNaN
-  , infinity
-  , isFinite
+  ( 
+  --   nan
+  -- , isNaN
+  -- , infinity
+    isFinite
   , readInt
   , readFloat
   , toFixed
